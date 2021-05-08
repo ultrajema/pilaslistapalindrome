@@ -1,0 +1,13 @@
+C:\Users\emanu\Desktop\PILAS-master\Pilas\bin\Debug\netcoreapp3.1\Pila.exe
+C:\Users\emanu\Desktop\PILAS-master\Pilas\bin\Debug\netcoreapp3.1\Pila.deps.json
+C:\Users\emanu\Desktop\PILAS-master\Pilas\bin\Debug\netcoreapp3.1\Pila.runtimeconfig.json
+C:\Users\emanu\Desktop\PILAS-master\Pilas\bin\Debug\netcoreapp3.1\Pila.runtimeconfig.dev.json
+C:\Users\emanu\Desktop\PILAS-master\Pilas\bin\Debug\netcoreapp3.1\Pila.dll
+C:\Users\emanu\Desktop\PILAS-master\Pilas\bin\Debug\netcoreapp3.1\Pila.pdb
+C:\Users\emanu\Desktop\PILAS-master\Pilas\obj\Debug\netcoreapp3.1\Pila.csprojAssemblyReference.cache
+C:\Users\emanu\Desktop\PILAS-master\Pilas\obj\Debug\netcoreapp3.1\Pila.AssemblyInfoInputs.cache
+C:\Users\emanu\Desktop\PILAS-master\Pilas\obj\Debug\netcoreapp3.1\Pila.AssemblyInfo.cs
+C:\Users\emanu\Desktop\PILAS-master\Pilas\obj\Debug\netcoreapp3.1\Pila.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\PILAS-master\Pilas\obj\Debug\netcoreapp3.1\Pila.dll
+C:\Users\emanu\Desktop\PILAS-master\Pilas\obj\Debug\netcoreapp3.1\Pila.pdb
+C:\Users\emanu\Desktop\PILAS-master\Pilas\obj\Debug\netcoreapp3.1\Pila.genruntimeconfig.cache

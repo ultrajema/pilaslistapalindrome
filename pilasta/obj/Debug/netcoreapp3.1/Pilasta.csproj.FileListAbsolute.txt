@@ -1,0 +1,13 @@
+C:\Users\emanu\Desktop\PILAS-master\Pilas\bin\Debug\netcoreapp3.1\Pilasta.exe
+C:\Users\emanu\Desktop\PILAS-master\Pilas\bin\Debug\netcoreapp3.1\Pilasta.deps.json
+C:\Users\emanu\Desktop\PILAS-master\Pilas\bin\Debug\netcoreapp3.1\Pilasta.runtimeconfig.json
+C:\Users\emanu\Desktop\PILAS-master\Pilas\bin\Debug\netcoreapp3.1\Pilasta.runtimeconfig.dev.json
+C:\Users\emanu\Desktop\PILAS-master\Pilas\bin\Debug\netcoreapp3.1\Pilasta.dll
+C:\Users\emanu\Desktop\PILAS-master\Pilas\bin\Debug\netcoreapp3.1\Pilasta.pdb
+C:\Users\emanu\Desktop\PILAS-master\Pilas\obj\Debug\netcoreapp3.1\Pilasta.AssemblyInfoInputs.cache
+C:\Users\emanu\Desktop\PILAS-master\Pilas\obj\Debug\netcoreapp3.1\Pilasta.AssemblyInfo.cs
+C:\Users\emanu\Desktop\PILAS-master\Pilas\obj\Debug\netcoreapp3.1\Pilasta.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\PILAS-master\Pilas\obj\Debug\netcoreapp3.1\Pilasta.dll
+C:\Users\emanu\Desktop\PILAS-master\Pilas\obj\Debug\netcoreapp3.1\Pilasta.pdb
+C:\Users\emanu\Desktop\PILAS-master\Pilas\obj\Debug\netcoreapp3.1\Pilasta.genruntimeconfig.cache
+C:\Users\emanu\Desktop\PILAS-master\Pilas\obj\Debug\netcoreapp3.1\Pilasta.csprojAssemblyReference.cache

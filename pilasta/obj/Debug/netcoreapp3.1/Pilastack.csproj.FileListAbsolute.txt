@@ -1,0 +1,12 @@
+C:\Users\emanu\Desktop\PILAS-master\Pilas\bin\Debug\netcoreapp3.1\Pilastack.exe
+C:\Users\emanu\Desktop\PILAS-master\Pilas\bin\Debug\netcoreapp3.1\Pilastack.deps.json
+C:\Users\emanu\Desktop\PILAS-master\Pilas\bin\Debug\netcoreapp3.1\Pilastack.runtimeconfig.json
+C:\Users\emanu\Desktop\PILAS-master\Pilas\bin\Debug\netcoreapp3.1\Pilastack.runtimeconfig.dev.json
+C:\Users\emanu\Desktop\PILAS-master\Pilas\bin\Debug\netcoreapp3.1\Pilastack.dll
+C:\Users\emanu\Desktop\PILAS-master\Pilas\bin\Debug\netcoreapp3.1\Pilastack.pdb
+C:\Users\emanu\Desktop\PILAS-master\Pilas\obj\Debug\netcoreapp3.1\Pilastack.AssemblyInfoInputs.cache
+C:\Users\emanu\Desktop\PILAS-master\Pilas\obj\Debug\netcoreapp3.1\Pilastack.AssemblyInfo.cs
+C:\Users\emanu\Desktop\PILAS-master\Pilas\obj\Debug\netcoreapp3.1\Pilastack.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\PILAS-master\Pilas\obj\Debug\netcoreapp3.1\Pilastack.dll
+C:\Users\emanu\Desktop\PILAS-master\Pilas\obj\Debug\netcoreapp3.1\Pilastack.pdb
+C:\Users\emanu\Desktop\PILAS-master\Pilas\obj\Debug\netcoreapp3.1\Pilastack.genruntimeconfig.cache
